@@ -1,0 +1,62 @@
+site_name: Lyner Lim
+site_url: https://lynerlwl.github.io/
+docs_dir: src
+site_dir: docs
+extra_css:
+  - extra.css
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+theme:
+  name: material
+  # Color scheme
+  palette: 
+  # Palette toggle for light mode
+    - scheme: default
+      primary: blue grey
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.follow
+    - toc.integrate
+# extra:
+#   generator: false
+
+nav: 
+  # - Home: index.md
+  - Personal: 
+    - About Me: personal/about.md
+    - Thought: personal/thought.md
+    # - Reading: personal/read.md
+  - Research:
+    - Note: research/note.md
+    - Project: research/project.md
+    - Publication:  research/publication.md
+  - Academic:
+    - Supervision: academic/supervision.md
+    - Tutorial: academic/tutorial.md
+  # - Machine Learning:
+  #   - Overview: machine_learning/overview.md
+  #   - Important Works: machine_learning/important.md
+  #   - Terms: machine_learning/term.md
+  # - Semantic Segmentation: 
+  #   - Overview: semantic_segmentation/cv.md
+  # - Graph Neural Network:
+  #   - How to learn: graph_neural_network/learn.md  
+  # - Mathematics: 
+  #   - Overview: math/math.md
+  # - Technical: 
+  #   - Technical Terms: technical/tech_term.md
+
+
