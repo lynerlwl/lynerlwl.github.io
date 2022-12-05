@@ -44,7 +44,7 @@ nav:
     - Project: research/project.md
     - Publication:  research/publication.md
   - Academic:
-    - Supervision: academic/supervision.md
+    # - Supervision: academic/supervision.md
     - Tutorial: academic/tutorial.md
   # - Machine Learning:
   #   - Overview: machine_learning/overview.md

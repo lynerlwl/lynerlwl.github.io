@@ -1,6 +1,12 @@
 # Welcome!
 
-My name is Wei Lun, you can also call me Lyner. I am a PhD (Computing) candidate at Sunway University, where I work on small sample learning in semantic segmentation. I also a [Research Assistant](research/project.md) and [Teaching Assistant](academic/tutorial.md). I'm interested in "meta-learning", "geometric deep learning". Feel free to reach out to **lynerlwl:material-at:ieee.com**, if you found any errors or just like to chat. 
+My name is Wei Lun, you can also call me Lyner. I am a PhD (Computing) candidate at Sunway University, where I work on small sample learning in semantic segmentation. I also a [Research Assistant](research/project.md) and [Teaching Assistant](academic/tutorial.md). 
+
+My research interests:
+1. geometry deep learning - particulary graph data structure.
+2. topological deep learning - particulary manifold learning which make use of geometrical and topological information.
+
+Feel free to reach out to **lynerlwl:material-at:ieee.com**, if you found any errors or just like to chat. 
 
 You can find me at other platform too: 
 [:material-github:](https://github.com/lynerlwl) | 
