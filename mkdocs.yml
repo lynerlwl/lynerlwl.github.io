@@ -43,9 +43,9 @@ nav:
     - Note: research/note.md
     - Project: research/project.md
     - Publication:  research/publication.md
-  - Academic:
+  # - Academic:
     # - Supervision: academic/supervision.md
-    - Tutorial: academic/tutorial.md
+    # - Tutorial: academic/tutorial.md
   # - Machine Learning:
   #   - Overview: machine_learning/overview.md
   #   - Important Works: machine_learning/important.md

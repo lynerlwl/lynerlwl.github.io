@@ -1,9 +1,7 @@
 # Tutorial
 
-Sunway University [Aug 2022 - present]
+**Sunway University**
 
-- WEB2202: Web Programming. 
+- Aug 2022 - Nov 2022 **WEB2202: Web Programming**. 
 
-Sunway University [Apr 2022 - Jul 2022] 
-
-- PRG2104: Object-Oriented Programming, SEG2202: Software Engineering.
+- Apr 2022 - Jul 2022 **PRG2104: Object-Oriented Programming**, **SEG2202: Software Engineering**.

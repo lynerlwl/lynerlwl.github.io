@@ -8,7 +8,7 @@
 
 [**Metadata**](https://en.wikipedia.org/wiki/Metadata) is "data that provides information about other data", but not the content of the data.
 
-[**Backpropagation**](https://brilliant.org/wiki/backpropagation/), short for "backward propagation of errors," is an algorithm for supervised learning of artificial neural networks using gradient descent.
+[**Backpropagation**](https://brilliant.org/wiki/backpropagation/), short for "backward propagation of errors" is an algorithm for supervised learning of artificial neural networks using gradient descent.
 
 [**Latent space**](https://en.wikipedia.org/wiki/Latent_space), also known as a **latent feature space** or **embedding space**, is a vector space spanned by the latent variables. Latent variables are variables which are not directly observable.
 - Position within the latent space can be viewed as being defined by a set of latent variables that emerge from the resemblances from the objects.
@@ -80,3 +80,4 @@ A region in an image is a group of connected pixels with similar properties.
 Compression ~ Dimension Reduction ~ Cell Collapsing
 
 Fine & coarse segmentation
+
