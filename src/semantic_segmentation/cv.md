@@ -1,8 +1,19 @@
 What is image segmentation?
 - Image segmentation is vital scene understanding process that locate objects and boundaries in an image. 
 
-What is semantic segmentation?
+What image contain?
+- Image is composed by pixels with different intensity value.
+
+How semantic segmentation is done?
 - Semantic segmentation is a task that classify each pixel in the image to a label.
+
+CNN learn the changes among a set of connected pixels. Prominent changes and repeated parts will be in learnt model.
+
+**Long-term context relationship** refers to the relationship between different regions or objects in an image over a longer period of time.
+
+**Contextual information** refers to the information that surrounds a specific object or region in an image, that can be useful for disambiguating objects or making more accurate predictions.
+
+Conditional Random Field (CRF) allows the model to take into account the relationship between different regions in an image.
 
 How it is being done?
 - Traditional CV algorithm
