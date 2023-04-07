@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Wei Lun, and you can also call me Lyner. I am a PhD (Computing) candidate at Sunway University, where I am also a [Research Assistant](research/project.md) and [Teaching Assistant](personal/experience.md). I work on small sample learning in semantic segmentation in my PhD research. My current research interest is in **representation learning**, and I am looking at using the graph to represent the image. My list of publications can be seen [here](research/publication.md).
+My name is Wei Lun, and you can also call me Lyner. I am a PhD (Computing) candidate at [Sunway University](https://university.sunway.edu.my/), where I am also a [Research Assistant](personal/experience.md) and [Teaching Assistant](personal/experience.md). In my PhD research, I am looking at using the graph to represent the image for semantic segmentation. My list of publications can be seen [here](research/publication.md). As a computer science researcher, I try to demystify concepts in artificial intelligence related to my research interest. I am planning to write about them soon.
 
 ## Quick update
 
@@ -17,7 +17,7 @@ My name is Wei Lun, and you can also call me Lyner. I am a PhD (Computing) candi
 
 ## Contact
 
-Feel free to reach out to **lyner_lim:material-at:ieee.com**, if you want to point out anything or just like to chat. 
+Feel free to reach out to **lynerlwl:material-at:ieee.com**, if you want to point out anything or just like to chat. 
 
 You can find me at other platform too: 
 [:material-github:](https://github.com/lynerlwl) | 

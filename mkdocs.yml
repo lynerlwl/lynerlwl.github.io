@@ -37,18 +37,24 @@ nav:
   # - Home: index.md
   - Personal: 
     - About Me: personal/about.md
-    - Thought: personal/thought.md
-    # - Reading: personal/read.md
+    - Work Experience: personal/work_experience.md
   - Research:
     - Note: research/note.md
     - Project: research/project.md
     - Publication:  research/publication.md
+  - PhD Journey:
+    - Before: phd/before.md
+    - Starting: phd/starting.md
+    - Exploration: phd/exploration.md
+    # - Proposal Defence: phd/proposal-defence.md
   # - Machine Learning:
   #   - Overview: machine_learning/overview.md
   #   - Important Works: machine_learning/important.md
   #   - Terms: machine_learning/term.md
-  - Semantic Segmentation: 
-    - Overview: semantic_segmentation/cv.md
+  # - Semantic Segmentation: 
+  #   - Overview: semantic_segmentation/cv.md
+  # - Note:
+  #   - Behavior: note/behavior.md
   # - Graph Neural Network:
   #   - How to learn: graph_neural_network/learn.md  
   # - Mathematics: 
