@@ -51,4 +51,4 @@ hide:
 - [Dec 2021] Completed Master study.
 
 - [Jan 2022] I started doing PhD (Computing) at [Sunway University](https://university.sunway.edu.my/) with [Lau Sian Lun](https://scholar.google.com/citations?user=kYEKv3oAAAAJ) and [Matthew Teow](https://scholar.google.com/citations?user=kqC8KU8AAAAJ&hl=en).
-- [Apr 2022 - present] I worked as teaching assitant at Sunway University, teaching year 2 computing students.
+- [Apr 2022 - present] I worked as teaching assistant at Sunway University, teaching year 2 computing students.
