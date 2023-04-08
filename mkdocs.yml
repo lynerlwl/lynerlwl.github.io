@@ -26,8 +26,8 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs
+    # - navigation.tabs.sticky
     - toc.follow
     - toc.integrate
 # extra:
@@ -35,13 +35,13 @@ theme:
 
 nav: 
   # - Home: index.md
-  - Personal: 
-    - About Me: personal/about.md
-    - Work Experience: personal/work_experience.md
-  - Research:
-    - Note: research/note.md
-    - Project: research/project.md
-    - Publication:  research/publication.md
+  # - Personal: 
+  #   - About Me: personal/about.md
+  #   - Work Experience: personal/work_experience.md
+  # - Research:
+  #   - Note: research/note.md
+  #   - Project: research/project.md
+  #   - Publication:  research/publication.md
   - PhD Journey:
     - Before: phd/before.md
     - Starting: phd/starting.md

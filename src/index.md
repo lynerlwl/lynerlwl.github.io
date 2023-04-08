@@ -1,6 +1,8 @@
+<meta name="keywords" content="Lyner, Lyner Lim, Lyner Lim Wei Lun, Lim Wei Lun, Wei Lun Lim">
+
 # Welcome!
 
-My name is Wei Lun, and you can also call me Lyner. I am a PhD (Computing) candidate at [Sunway University](https://university.sunway.edu.my/), where I am also a Research Assistant and Teaching Assistant. You can look at my work experience [here](personal/work_experience.md). In my PhD research, I am looking at using the graph to represent the image for semantic segmentation. My list of publications can be seen [here](research/publication.md). As a computer science researcher, I try to explain concepts in artificial intelligence related to my research interest. I am planning to write about them soon.
+My name is Wei Lun, and you can also call me Lyner. I am a PhD (Computing) candidate at [Sunway University](https://university.sunway.edu.my/), where I am also a Research Assistant and Teaching Assistant. You can look at my work experience [here](work_experience.md). In my PhD research, I am looking at using the graph to represent the image for semantic segmentation. My list of publications can be seen [here](publication.md). As a computer science researcher, I try to explain concepts in artificial intelligence related to my research interest. I am planning to write about them soon.
 
 ## Quick update
 
@@ -19,7 +21,7 @@ My name is Wei Lun, and you can also call me Lyner. I am a PhD (Computing) candi
 
 Feel free to reach out to **lynerlwl:material-at:ieee.com**, if you want to point out anything or just like to chat. 
 
-You can find me at other platform too: 
+Get to know more about me [here](about.md). You can find me at other platform too: 
 [:material-github:](https://github.com/lynerlwl) | 
 [:material-linkedin:](https://linkedin.com/in/lynerlwl) |
 [:material-steam:](https://steamcommunity.com/id/lynerlwl) |

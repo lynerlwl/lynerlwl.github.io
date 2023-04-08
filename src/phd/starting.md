@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # Getting starting of PhD
 
 To start a PhD program, you must find someone willing to supervise you. I would not teach you how to find a supervisor as I am not well experienced in this. Usually, people will spend quite a long time without a referral. So, a referral is essential even in academics. In my case, I contacted my PhD supervisor through email, who is the connection to my MSc supervisor.
@@ -8,4 +13,4 @@ The proposal states the basis of what you want to research for the next subseque
 
 I spent a long time exploring a few topics that interest me: reinforcement learning, meta-learning, active learning, and graph machine learning. Looking at those topics, you can know why I spent one year deciding on the topic to focus on. **PhD is about depth, not breadth.** I ended up with graph machine learning since I have been interested most since my MSc. 
 
-Next, we will look at exploring the topics to work on.
+Next, we will look at [exploring the topics](exploration.md) to work on.

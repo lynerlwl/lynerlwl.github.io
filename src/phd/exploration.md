@@ -8,4 +8,4 @@ Through a few readings, I realise that convolution in grid representation will c
 
 You realise what you missed when writing. We do not learn from the research paper on learning a new concept. We identify the gap and trend from the paper, then learn the fundamentals from the textbook. Learning takes time, quite some time. Why so? If you know a bit of something, then quickly go to the next concept. What's the implication? It will cause a learning gap, a serious problem we must solve. For example, we know 80% of Concept 1 and then learn Concept 2. That missing 20% is crucial to understanding Concept 2.
 
-Next, we will look at proposal defence.
+Next, we will look at proposal defence (in progress).
