@@ -2,16 +2,20 @@
 
 # Welcome!
 
-My name is Wei Lun, and you can also call me Lyner. I am a PhD (Computing) candidate at [Sunway University](https://university.sunway.edu.my/), where I am also a Research Assistant and Teaching Assistant. You can look at my work experience [here](work_experience.md). In my PhD research, I am looking at using the graph to represent the image for semantic segmentation. My list of publications can be seen [here](publication.md). As a computer science researcher, I try to explain concepts in artificial intelligence related to my research interest. I am planning to write about them soon.
+My name is Wei Lun, and you can also call me Lyner. I am a PhD (Computing) candidate at [**Sunway University**](https://sunwayuniversity.edu.my/), where I am also a Research Assistant and Teaching Assistant. In my PhD research, I study graph representation learning for semantic segmentation. I read on my free time, [**these**](book.md) are the books I enjoyed.
 
-## Quick update
+Check this out: [**Work experience**](experience.md) | [**Publication**](publication.md) | [**Blog**](blog.md) | [**PhD Experience**](phd.md) | [**Recommendation**](recommended.md)
 
-2022 10 - A conference paper is accepted by ICOCO 2022. <br>
-2022 01 - Started PhD (Computing) in Sunway University. <br>
+## Recent update
+
+2023 08 - A [conference paper](https://bit.ly/2023-08-icoco) that study the effect of Gaussian blurring on U-Net is accepted by ICOCO 2023.
+2023 04 - Passed Proposal Defence. <br>
+
 
 <details>
 <summary>Past update</summary>
-
+2022 10 - A [conference paper](https://bit.ly/2022-12-icoco) that compare the performance of U-Net and Mask-RCNN is accepted by ICOCO 2022. <br>
+2022 01 - Started PhD (Computing) in Sunway University. <br>
 2021 08 - A <a href="https://www.mdpi.com/2079-7737/10/9/853" target="_blank">journal paper</a> on bioinformatics is publised in Biology (2021). <br>
 2021 05 - Start working as research assistant at Sunway University. <br>
 2020 09 - A <a href="https://ieeexplore.ieee.org/document/9210093" target="_blank">journal paper</a> on data mining is publised in IEEE Access (2020).
@@ -24,5 +28,4 @@ Feel free to reach out to **lynerlwl:material-at:ieee.com**, if you want to poin
 Get to know more about me [here](about.md). You can find me at other platform too: 
 [:material-github:](https://github.com/lynerlwl) | 
 [:material-linkedin:](https://linkedin.com/in/lynerlwl) |
-[:material-steam:](https://steamcommunity.com/id/lynerlwl) |
-[:material-goodreads:](https://www.goodreads.com/lynerlwl)
+[:material-steam:](https://steamcommunity.com/id/lynerlwl)

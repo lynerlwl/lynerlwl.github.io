@@ -33,7 +33,7 @@ theme:
 # extra:
 #   generator: false
 
-nav: 
+# nav: 
   # - Home: index.md
   # - Personal: 
   #   - About Me: personal/about.md
@@ -42,24 +42,15 @@ nav:
   #   - Note: research/note.md
   #   - Project: research/project.md
   #   - Publication:  research/publication.md
-  - PhD Journey:
-    - Before: phd/before.md
-    - Starting: phd/starting.md
-    - Exploration: phd/exploration.md
-    # - Proposal Defence: phd/proposal-defence.md
-  # - Machine Learning:
-  #   - Overview: machine_learning/overview.md
-  #   - Important Works: machine_learning/important.md
-  #   - Terms: machine_learning/term.md
-  # - Semantic Segmentation: 
-  #   - Overview: semantic_segmentation/cv.md
-  # - Note:
-  #   - Behavior: note/behavior.md
-  # - Graph Neural Network:
-  #   - How to learn: graph_neural_network/learn.md  
-  # - Mathematics: 
-  #   - Overview: math/math.md
-  # - Technical: 
-  #   - Technical Terms: technical/tech_term.md
-
+  # - Blog:
+      # - Reading is hard: reading-is-hard.md
+      # - PC DIY 1/3 - Buying hardware: pc-diy-buying-hardware.md
+      # - PC DIY 2/3 - Installing hardware: pc-diy-installing-hardware.md
+      # - PC DIY 3/3 - Setup machine: pc-diy-setup-machine.md
+  # - Technical:
+  # - PhD Journey:
+  #   - About PhD: phd/1-what-is-phd.md
+  #   - What to consider before starting a PhD: phd/2-before-starting-phd.md
+  #   - Getting starting of PhD: phd/3-starting-phd.md
+  #   - Exploration and Proposal Defense: phd/4-exploration-and-proposal-defense.md
 

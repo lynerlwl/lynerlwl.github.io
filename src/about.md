@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# Summary
+# About me
 
 <div class="timeline">
     <div class="container right">
