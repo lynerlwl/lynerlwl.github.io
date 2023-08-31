@@ -24,10 +24,10 @@ The choice of power supply depends on the graphic card you will be using. I sugg
 
 Here I'm listing a summary of the build mentioned:
 
- (1) Case: Cooler Master MasterBox Q300L
+ (1) Case: Cooler Master MasterBox Q300L <br>
  ![Cooler Master MasterBox Q300L](pc-diy-1-img/case.jpeg) <br>
- (2) Mainboard: GIGABYTE B760M D2H DDR4 LGA1700
- ![GIGABYTE B760M D2H DDR4 LGA1700](pc-diy-1-img/mainboard.jpeg)
+ (2) Mainboard: GIGABYTE B760M D2H DDR4 LGA1700 <br>
+ ![GIGABYTE B760M D2H DDR4 LGA1700](pc-diy-1-img/mainboard.jpeg) <br>
  (3) Processor / CPU: Intel i5 13400 LGA1700
  ![Intel i5 13400 LGA1700](pc-diy-1-img/cpu.png)
  (4) Memory / RAM: Kingston Fury Beast 16GB 3200
