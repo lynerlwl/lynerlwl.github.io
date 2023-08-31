@@ -8,7 +8,7 @@ Check this out: [**Work experience**](experience.md) | [**Publication**](publica
 
 ## Recent update
 
-2023 08 - A [conference paper](https://bit.ly/2023-08-icoco) that study the effect of Gaussian blurring on U-Net is accepted by ICOCO 2023.
+2023 08 - A [conference paper](https://bit.ly/2023-08-icoco) that study the effect of Gaussian blurring on U-Net is accepted by ICOCO 2023. <br>
 2023 04 - Passed Proposal Defence. <br>
 
 

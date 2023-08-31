@@ -14,8 +14,8 @@ My detailed CV can be downloaded [here](https://bit.ly/lyner-cv).
 ## Teaching Assistant
 
 - 2022 - present at **Sunway University**:
-  - 2023 05 - 2023 07 **CSC1024: Programming Fundamental**.
-  - 2023 01 - 2023 03 **ITC1014: Business Computing**.
-  - 2022 08 - 2022 11 **WEB2202: Web Programming**. 
-  - 2022 04 - 2022 07 **PRG2104: Object-Oriented Programming**, **SEG2202: Software Engineering**.
+    - 2023 05 - 2023 07 **CSC1024: Programming Fundamental**.
+    - 2023 01 - 2023 03 **ITC1014: Business Computing**.
+    - 2022 08 - 2022 11 **WEB2202: Web Programming**. 
+    - 2022 04 - 2022 07 **PRG2104: Object-Oriented Programming**, **SEG2202: Software Engineering**.
 
