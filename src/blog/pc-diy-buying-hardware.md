@@ -3,6 +3,8 @@ hide:
  - footer
 ---
 
+# PC DIY 1 - Buying Hardware
+
 This article is the first part of the PC DIY series, buying hardware. We have three parts in this series, and the hardware mentioned is based on the mid-end gaming rig I built.
 
 The essential components of a PC consist of the following: 
@@ -28,15 +30,15 @@ Here I'm listing a summary of the build mentioned:
  ![Cooler Master MasterBox Q300L](pc-diy-1-img/case.jpeg) <br>
  (2) Mainboard: GIGABYTE B760M D2H DDR4 LGA1700 <br>
  ![GIGABYTE B760M D2H DDR4 LGA1700](pc-diy-1-img/mainboard.jpeg) <br>
- (3) Processor / CPU: Intel i5 13400 LGA1700
- ![Intel i5 13400 LGA1700](pc-diy-1-img/cpu.png)
- (4) Memory / RAM: Kingston Fury Beast 16GB 3200
- ![Alt text](pc-diy-1-img/ram.jpeg)
- (5) Storage: Kingston NV1 NVMe M.2 SSD 1TB
- ![Kingston NV1 NVMe M.2 SSD 1TB](pc-diy-1-img/ssd.jpeg)
- (6) Power Supply / PSU: Corsair RM 750e Gold
- ![Corsair RM 750e Gold](pc-diy-1-img/psu.jpeg)
- (7) Graphic card / GPU (optional): GIGABYTE GeForce RTX4060 TI EAGLE 8GB
- ![GIGABYTE GeForce RTX4060 TI EAGLE 8GB](pc-diy-1-img/gpu.png)
+ (3) Processor / CPU: Intel i5 13400 LGA1700 <br>
+ ![Intel i5 13400 LGA1700](pc-diy-1-img/cpu.png) <br>
+ (4) Memory / RAM: Kingston Fury Beast 16GB 3200 <br>
+ ![Alt text](pc-diy-1-img/ram.jpeg) <br>
+ (5) Storage: Kingston NV1 NVMe M.2 SSD 1TB <br>
+ ![Kingston NV1 NVMe M.2 SSD 1TB](pc-diy-1-img/ssd.jpeg) <br>
+ (6) Power Supply / PSU: Corsair RM 750e Gold <br>
+ ![Corsair RM 750e Gold](pc-diy-1-img/psu.jpeg) <br>
+ (7) Graphic card / GPU (optional): GIGABYTE GeForce RTX4060 TI EAGLE 8GB <br>
+ ![GIGABYTE GeForce RTX4060 TI EAGLE 8GB](pc-diy-1-img/gpu.png) 
 
 Next, we will look at [installing the hardware](pc-diy-installing-hardware).
