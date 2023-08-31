@@ -28,12 +28,12 @@ theme:
   features:
     # - navigation.tabs
     # - navigation.tabs.sticky
-    - toc.follow
-    - toc.integrate
+    # - toc.follow
+    # - toc.integrate
 # extra:
 #   generator: false
 
-# nav: 
+nav: 
   # - Home: index.md
   # - Personal: 
   #   - About Me: personal/about.md
