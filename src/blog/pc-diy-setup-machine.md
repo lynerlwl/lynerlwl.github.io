@@ -4,7 +4,7 @@ hide:
 ---
 # PC DIY 3 - Setup Machine
 
-This article is the last part of the PC DIY series, set up the machine. You can read the previous two here: [PC DIY 1 - Buying Hardware](blog/pc-diy-buying-hardware.md) & [PC DIY 2 - Installing Hardware](blog/pc-diy-installing-hardware.md).
+This article is the last part of the PC DIY series, set up the machine. You can read the previous two here: [PC DIY 1 - Buying Hardware](pc-diy-buying-hardware.md) & [PC DIY 2 - Installing Hardware](pc-diy-installing-hardware.md).
 
 We will be installing Windows OS on our machine. First, ensure you have a bootable USB drive, which you need to create on the existing OS. I recommend using Rufus to create your bootable drive:
 Download Windows ISO.
