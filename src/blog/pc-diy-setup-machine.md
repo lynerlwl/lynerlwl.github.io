@@ -16,4 +16,8 @@ Here's what to do if the machine is started but you see the BIOS screen instead 
 
 ![Windows Installation Screen](pc-diy-3-img/win-install.jpeg)
 
-Click next to the Disc Partition Creation page. Click "New" and proceed. You will see a few partitions being created. Click next and follow the instructions. You will have your OS installed.
+Click next to the Disc Partition Creation page. Click "New" and proceed. You will see a few partitions being created. Click next and follow the instructions. 
+
+![Disc Partition Screen](pc-diy-3-img/partition-create.png)
+
+You will have your OS installed.
