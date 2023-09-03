@@ -9,7 +9,6 @@
 7. The Art of Statistics: How to Learn from Data - David Spiegelhalter
 
 # Blog or Video
-
 [Scott Adam ~ The Day You Became A Better Writer](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html) <br>
 [Richard Hamming ~ Research advice](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) <br>
 [Alex Foo ~ Graph Neural Networks - a perspective from the ground up](https://www.youtube.com/watch?v=GXhBEj1ZtE8) <br>
