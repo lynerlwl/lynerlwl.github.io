@@ -20,4 +20,4 @@ Click next to the Disc Partition Creation page. Click "New" and proceed. You wil
 
 ![Disc Partition Screen](pc-diy-3-img/partition-create.png)
 
-You will have your OS installed.
+You now have your OS installed.

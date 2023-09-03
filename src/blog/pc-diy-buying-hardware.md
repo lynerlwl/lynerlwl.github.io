@@ -41,4 +41,4 @@ Here I'm listing a summary of the build mentioned:
  (7) Graphic card / GPU (optional): GIGABYTE GeForce RTX4060 TI EAGLE 8GB <br>
  ![GIGABYTE GeForce RTX4060 TI EAGLE 8GB](pc-diy-1-img/gpu.png) 
 
-Next, we will look at [installing the hardware](https://lynerlwl.github.io/blog/pc-diy-buying-hardware/).
+Next, we will look at [installing the hardware](https://lynerlwl.github.io/blog/pc-diy-installing-hardware/).
