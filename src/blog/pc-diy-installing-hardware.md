@@ -5,7 +5,7 @@ hide:
 
 # PC DIY 2 - Installing Hardware
 
-The installation guide is based on the hardware we mentioned in [PC DIY 1](pc-diy-buying-hardware.md). Let's first look at the mainboard. I have annotated the parts we're going to cover with red rectangles.
+The installation guide is based on the hardware we mentioned in [PC DIY 1](https://lynerlwl.github.io/blog/pc-diy-buying-hardware/). Let's first look at the mainboard. I have annotated the parts we're going to cover with red rectangles.
 
 ![B760m](pc-diy-2-img/b760m.jpeg)
 
@@ -29,4 +29,4 @@ Then, we plug the "Front Panel cable" according to the image below.
 
 ![Front Panel](pc-diy-2-img/front-panel.jpeg)
 
-The last step is to connect the PSU to the mainboard. Screw the PSU to the casing, then connect the cable to the "Motherboard" and "CPU" slot in PSU. Plug the respective cable into the mainboard, and you're ready for the [setup stage](pc-diy-setup-machine.md).
+The last step is to connect the PSU to the mainboard. Screw the PSU to the casing, then connect the cable to the "Motherboard" and "CPU" slot in PSU. Plug the respective cable into the mainboard, and you're ready for the [setup stage](https://lynerlwl.github.io/blog/pc-diy-setup-machine/).
