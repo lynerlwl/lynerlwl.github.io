@@ -1,4 +1,6 @@
-<meta name="keywords" content="Lyner, Lyner Lim, Lyner Lim Wei Lun, Lim Wei Lun, Wei Lun Lim">
+---
+page.keywords: Lyner, Lyner Lim, Lyner Lim Wei Lun, Lim Wei Lun, Wei Lun Lim
+---
 
 # Welcome!
 
@@ -24,7 +26,7 @@ Check this out: [**Work experience**](experience.md) | [**Publication**](publica
 
 Feel free to reach out to **lynerlwl:material-at:ieee.com**, if you want to point out anything or just like to chat. 
 
-Get to know more about me [here](about.md). You can find me at other platform too: 
+Get to know more about me [**here**](about.md). You can find me at other platform too: 
 [:material-github:](https://github.com/lynerlwl) | 
 [:material-linkedin:](https://linkedin.com/in/lynerlwl) |
 [:material-steam:](https://steamcommunity.com/id/lynerlwl)

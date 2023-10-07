@@ -1,4 +1,4 @@
-Check my [Google Scholar](https://scholar.google.com/citations?user=IJdd5vQAAAAJ&hl=en) profile for a summary list.
+Check my [**Google Scholar**](https://scholar.google.com/citations?user=IJdd5vQAAAAJ&hl=en) profile for a summary list.
 
 <details>
 <summary>Image Segmentation</summary>

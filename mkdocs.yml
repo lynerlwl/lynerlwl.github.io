@@ -30,7 +30,10 @@ theme:
     # - navigation.tabs.sticky
     - toc.follow
     - toc.integrate
-# extra:
+extra:
+  analytics:
+      provider: google
+      property: G-CH40M1VTY7
 #   generator: false
 
 nav: 
