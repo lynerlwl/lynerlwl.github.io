@@ -3,11 +3,22 @@ Check my [**Google Scholar**](https://scholar.google.com/citations?user=IJdd5vQA
 <details>
 <summary>Image Segmentation</summary>
 <p>
+   <b>Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images with Gaussian Blurring
+y</b> <a href="https://ieeexplore.ieee.org/document/10397704" target="_blank">[link] </a> <br>
+    <u>Wei Lun Lim</u>, Matthew YW Teow, Richard TK Wong,Refat Khan Pathan, Sian Lun Lau, Chiung Ching Ho, Luis Bravo, Rahul Babu Koneru, Prashant Khare <br>
+    IEEE International Conference on Computing (ICOCO) 2023<br>
+    Keyword: semantic segmentation, U-Net, Gaussian blurring <br>
+    Summary: We showed that Gaussian blurring as an inductive bias is helpful to the segmentation outcome. <br>
+    <a href="https://drive.google.com/file/d/18JGnCdXw1LVvwUFYzxNzOa0zej7t4l5u/view?usp=sharing" target="_blank">[Paper] </a> 
+    <a href="https://github.com/lynerlwl/unet-gaussian-blurring" target="_blank">[Code] </a> 
+</p> 
+<p>
    <b>Experimental Analysis of U-Net and Mask R-CNN for Segmentation of Synthetic Liquid Spray</b> <a href="https://ieeexplore.ieee.org/abstract/document/10031951" target="_blank">[link] </a> <br>
     Refat Khan Pathan, <u>Wei Lun Lim</u>, Sian Lun Lau, Chiung Ching Ho, Prashant Khare, Rahul Babu Koneru <br>
     IEEE International Conference on Computing (ICOCO) 2022<br>
     Keyword: semantic segmentation, instance segmentation, U-Net, Mask R-CNN <br>
     <a href="https://drive.google.com/file/d/1MvDI13kNrCEOmEM5LYsn9G35xxV9kmZy/view?usp=share_link" target="_blank">[Paper] </a> 
+    <a href="https://github.com/lynerlwl/DeepSpray-UNet" target="_blank">[Code for semantic segmentation] </a> 
 </p>
 </details>
 
