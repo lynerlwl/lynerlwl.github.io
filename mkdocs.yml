@@ -29,6 +29,7 @@ theme:
   features:
     # - navigation.tabs
     # - navigation.tabs.sticky
+    - header.autohide
     - toc.follow
     - toc.integrate
 extra:
@@ -37,8 +38,8 @@ extra:
       property: G-CH40M1VTY7
 #   generator: false
 
-# nav: 
-#   - Home: index.md
+nav: 
+  - Home: index.md
   # - Personal: 
   #   - About Me: personal/about.md
   #   - Work Experience: personal/work_experience.md
