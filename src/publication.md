@@ -3,8 +3,7 @@ Check my [**Google Scholar**](https://scholar.google.com/citations?user=IJdd5vQA
 <details>
 <summary>Image Segmentation</summary>
 <p>
-   <b>Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images with Gaussian Blurring
-y</b> <a href="https://ieeexplore.ieee.org/document/10397704" target="_blank">[link] </a> <br>
+   <b>Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images with Gaussian Blurring</b> <a href="https://ieeexplore.ieee.org/document/10397704" target="_blank">[link] </a> <br>
     <u>Wei Lun Lim</u>, Matthew YW Teow, Richard TK Wong,Refat Khan Pathan, Sian Lun Lau, Chiung Ching Ho, Luis Bravo, Rahul Babu Koneru, Prashant Khare <br>
     IEEE International Conference on Computing (ICOCO) 2023<br>
     Keyword: semantic segmentation, U-Net, Gaussian blurring <br>
