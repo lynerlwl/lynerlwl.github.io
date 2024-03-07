@@ -2,11 +2,9 @@
 page.keywords: Lyner, Lyner Lim, Lyner Lim Wei Lun, Lim Wei Lun, Wei Lun Lim
 ---
 
-![Profile](photo.png){ align=left width=100px } <p> Name <br> degree <br> master <br> <br> Mobile <br> Email </p> <br>
+# Biography
 
-## Biography
-
-<!-- <img src="photo.png" width="50"> Name <br> degree <br> master <br> -->
+![Profile](photo.png){ align=left width=100px } <p> **Lyner Lim** <br> BIT (MMU, Malaysia) MSc (MMU, Malaysia). <br>  <br> <br>  <br>  </p> 
 
 My name is Wei Lun, and you can also call me Lyner. I am a PhD (Computing) candidate at [**Sunway University**](https://sunwayuniversity.edu.my/), where I am also a Research Assistant and Teaching Assistant. In my PhD research, I study graph representation learning for semantic segmentation. I read on my free time, [**these**](book.md) are the books I enjoyed.
 
@@ -14,11 +12,11 @@ Check this out: [**CV**](https://bit.ly/lyner-cv) | [**Publication**](publicatio
 
 ## Recent update
 
-2023 08 - A [conference paper](https://bit.ly/2023-08-icoco) that study the effect of Gaussian blurring on U-Net is accepted by ICOCO 2023. <br>
-
+2024 03
 
 <details>
 <summary>Past update</summary>
+2023 08 - A [conference paper](https://bit.ly/2023-08-icoco) that study the effect of Gaussian blurring on U-Net is accepted by ICOCO 2023. <br>
 2023 04 - Passed Proposal Defence. <br>
 2022 10 - A <a href="https://bit.ly/2022-12-icoco" target="_blank">conference paper</a> that compare the performance of U-Net and Mask-RCNN is accepted by ICOCO 2022. <br>
 2022 01 - Started PhD (Computing) in Sunway University. <br>
