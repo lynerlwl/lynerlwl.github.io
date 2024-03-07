@@ -2,7 +2,7 @@
 page.keywords: Lyner, Lyner Lim, Lyner Lim Wei Lun, Lim Wei Lun, Wei Lun Lim
 ---
 
-![Profile](photo.png){ align=left width=100px } <p> Name <br> degree <br> master </p>
+![Profile](photo.png){ align=left width=100px } <p> Name <br> degree <br> master <br> <br> Mobile <br> Email </p> <br>
 
 ## Biography
 
