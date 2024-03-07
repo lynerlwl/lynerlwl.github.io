@@ -1,4 +1,4 @@
-## Technical Book
+# Technical Book
 
 1. Clean Code - Robert C. Martin
 2. The Pragmatic Programmer - Andrew Hunt, David Thomas
