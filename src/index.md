@@ -12,11 +12,11 @@ Check this out: [**CV**](https://bit.ly/lyner-cv) | [**Publication**](publicatio
 
 ## Recent update
 
-2024 03 - 
+2024 03 -  A <a href="https://ieeexplore.ieee.org/document/10459179" target="_blank">journal paper</a> on preparing a semantic segmentation model is publised in IEEE Access (2024).
 
 <details>
 <summary>Past update</summary>
-2023 08 - A [conference paper](https://bit.ly/2023-08-icoco) that study the effect of Gaussian blurring on U-Net is accepted by ICOCO 2023. <br>
+2023 08 - A <a href="https://bit.ly/2023-08-icoco" target="_blank">conference paper</a> that study the effect of Gaussian blurring applied on image for U-Net inference is accepted by ICOCO 2023. <br>
 2023 04 - Passed Proposal Defence. <br>
 2022 10 - A <a href="https://bit.ly/2022-12-icoco" target="_blank">conference paper</a> that compare the performance of U-Net and Mask-RCNN is accepted by ICOCO 2022. <br>
 2022 01 - Started PhD (Computing) in Sunway University. <br>
