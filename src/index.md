@@ -6,9 +6,7 @@ page.keywords: Lyner, Lyner Lim, Lyner Lim Wei Lun, Lim Wei Lun, Wei Lun Lim
 
 <!-- ![Profile](photo.png){ align=left width=100px } <p> <b>Lyner Lim</b> <br> BIT (MMU, Malaysia), MSc (MMU, Malaysia). <br>  <br> <br>  <br>  </p> <br> -->
 
-My name is Wei Lun, and you can also call me Lyner. I am a [**PhD**](phd.md) (Computing) candidate at [**Sunway University**](https://sunwayuniversity.edu.my/), where I am also a Research Assistant and Teaching Assistant. In my PhD research, I study graph representation learning for semantic segmentation. I read on my free time, [**these**](read.md) are the books I enjoyed.
-
-Check this out: [**CV**](https://bit.ly/lyner-cv) | [**Publication**](publication.md) | [**Blog**](blog.md)
+My name is Wei Lun, and you can also call me Lyner. I am a [**PhD**](phd.md) (Computing) candidate at [**Sunway University**](https://sunwayuniversity.edu.my/), where I am also a Research Assistant and Teaching Assistant. In my [**research**](publication.md), I study graph representation learning for semantic segmentation. Feel free to check out my [**resume**](https://bit.ly/lyner-cv). I [**read**](read.md) and [**write**](blog.md) on my free time.
 
 ## Recent update
 
