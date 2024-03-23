@@ -6,13 +6,13 @@ page.keywords: Lyner, Lyner Lim, Lyner Lim Wei Lun, Lim Wei Lun, Wei Lun Lim
 
 <!-- ![Profile](photo.png){ align=left width=100px } <p> <b>Lyner Lim</b> <br> BIT (MMU, Malaysia), MSc (MMU, Malaysia). <br>  <br> <br>  <br>  </p> <br> -->
 
-My name is Wei Lun, and you can also call me Lyner. I am a PhD (Computing) candidate at [**Sunway University**](https://sunwayuniversity.edu.my/), where I am also a Research Assistant and Teaching Assistant. In my PhD research, I study graph representation learning for semantic segmentation. I read on my free time, [**these**](book.md) are the books I enjoyed.
+My name is Wei Lun, and you can also call me Lyner. I am a [**PhD**](phd.md) (Computing) candidate at [**Sunway University**](https://sunwayuniversity.edu.my/), where I am also a Research Assistant and Teaching Assistant. In my PhD research, I study graph representation learning for semantic segmentation. I read on my free time, [**these**](read.md) are the books I enjoyed.
 
-Check this out: [**CV**](https://bit.ly/lyner-cv) | [**Publication**](publication.md) | [**Blog**](blog.md) | [**PhD Experience**](phd.md) | [**Recommendation**](recommended.md)
+Check this out: [**CV**](https://bit.ly/lyner-cv) | [**Publication**](publication.md) | [**Blog**](blog.md)
 
 ## Recent update
 
-2024 03 -  A <a href="https://ieeexplore.ieee.org/document/10459179" target="_blank">journal paper</a> on preparing a semantic segmentation model is publised in IEEE Access (2024).
+2024 03 -  A <a href="https://ieeexplore.ieee.org/document/10459179" target="_blank">journal paper</a> on developing a liquid spray semantic segmentation model is publised in IEEE Access (2024).
 
 <details>
 <summary>Past update</summary>
