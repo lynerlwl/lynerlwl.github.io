@@ -1,0 +1,30 @@
+{
+  "publications": [
+    {
+      "title": "Sentiment Analysis by Fusing Text and Location Features of Geo-Tagged Tweets",
+      "authors": [],
+      "venue": "IEEE Access 2020",
+      "thumbnail": "images/thumbs/access-2020.jpg",
+      "selected": "",
+      "award": 0,
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/9210093",
+        "code": "https://github.com/lynerlwl/Sentiment-Analysis-by-Fusing-Text-Location",
+        "project": ""
+      }
+    },
+    {
+      "title": "Semantic Liquid Spray Understanding With Computer-Generated Images",
+      "authors": [],
+      "venue": "IEEE Access 2024",
+      "thumbnail": "images/thumbs/access-2024.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/10459179",
+        "code": "https://github.com/lynerlwl/spray-unet",
+        "project": ""
+      }
+    }
+  ]
+}
